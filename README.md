@@ -4,6 +4,7 @@
 Alumno : Gimenez Jose Dario
 
 Comision : 14
+
 Repositorio destinado a la materia de programacion II
 
 Se desarrollaron los ejericios solicitados en el trabajo con comentarios sobre cada paso.
