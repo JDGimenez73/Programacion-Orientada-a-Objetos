@@ -1,5 +1,5 @@
-# Trabajo Práctico 3: Introducción a la
-# Programación Orientada a Objetos
+# Trabajo Práctico 3: 
+# Introducción a la Programación Orientada a Objetos
 
 Alumno : Gimenez Jose Dario
 Comision : 14
